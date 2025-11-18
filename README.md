@@ -110,9 +110,9 @@ Projet personnel de solutions IA. Slogan : **"Building What Comes Next."**
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME\&show_icons=true\&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Fresnel11\&show_icons=true\&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME\&layout=compact\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fresnel11\&layout=compact\&theme=radical)
 
 </div>
 
