@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1000\&color=00FF7F\&center=true\&vCenter=true\&width=700\&lines=Fresnel+Jean+Claude;Fullstack+%26+Mobile+Developer;Audio+%7C+IA+%7C+Web+%7C+Realtime;Building+What+Comes+Next.)
+
 # 👋 Hey, moi c'est Fresnel Jean Claude
 
 **Développeur Web Fullstack & Mobile** | Passionné par l'audio, l'IA et la construction de produits qui déchirent.
@@ -93,6 +95,26 @@ Projet personnel de solutions IA. Slogan : **"Building What Comes Next."**
 * **LinkedIn** : (à compléter)
 * **Portfolio** : (en construction)
 * **Email** : (ton email si tu veux)
+
+---
+
+---
+
+## 🐍 Snake des Contributions
+
+![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME\&show_icons=true\&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME\&layout=compact\&theme=radical)
+
+</div>
 
 ---
 
